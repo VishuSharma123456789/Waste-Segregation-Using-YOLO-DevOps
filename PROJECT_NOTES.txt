@@ -1,0 +1,6 @@
+DEMO STATUS
+- Runnable Streamlit demo using general pretrained YOLO segmentation.
+- CPU inference; first run downloads yolo11n-seg.pt.
+- Not a custom-trained 5-class waste model.
+- Waste category suggestions are editable by the presenter.
+- Area percentage is visible pixel area, not weight.
